@@ -34,6 +34,7 @@ PLATFORMS = [
     Platform.LIGHT,
     Platform.LOCK,
     Platform.NUMBER,
+    Platform.REMOTE,
     Platform.SELECT,
     Platform.SENSOR,
     Platform.SWITCH,

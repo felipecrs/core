@@ -100,6 +100,19 @@
         },
         "title": "Template sensor"
       },
+      "remote": {
+        "data": {
+          "device_id": "[%key:common::config_flow::data::device%]",
+          "name": "[%key:common::config_flow::data::name%]",
+          "send_command": "Actions on send command",
+          "learn_command": "Actions on learn command",
+          "delete_command": "Actions on delete command"
+        },
+        "data_description": {
+          "device_id": "[%key:component::template::config::step::sensor::data_description::device_id%]"
+        },
+        "title": "Template remote"
+      },
       "user": {
         "description": "This helper allows you to create helper entities that define their state using a template.",
         "menu_options": {
@@ -110,7 +123,8 @@
           "number": "Template a number",
           "select": "Template a select",
           "sensor": "Template a sensor",
-          "switch": "Template a switch"
+          "switch": "Template a switch",
+          "remote": "Template a remote"
         },
         "title": "Template helper"
       },
@@ -222,6 +236,19 @@
           "device_id": "[%key:component::template::config::step::sensor::data_description::device_id%]"
         },
         "title": "[%key:component::template::config::step::sensor::title%]"
+      },
+      "remote": {
+        "data": {
+          "device_id": "[%key:common::config_flow::data::device%]",
+          "name": "[%key:common::config_flow::data::name%]",
+          "send_command": "[%key:component::template::config::step::remote::data::send_command%]",
+          "learn_command": "[%key:component::template::config::step::remote::data::learn_command%]",
+          "delete_command": "[%key:component::template::config::step::remote::data::delete_command%]"
+        },
+        "data_description": {
+          "device_id": "[%key:component::template::config::step::sensor::data_description::device_id%]"
+        },
+        "title": "[%key:component::template::config::step::remote::title%]"
       },
       "switch": {
         "data": {

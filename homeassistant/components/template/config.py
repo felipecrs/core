@@ -16,6 +16,7 @@ from homeassistant.components.number import DOMAIN as NUMBER_DOMAIN
 from homeassistant.components.select import DOMAIN as SELECT_DOMAIN
 from homeassistant.components.sensor import DOMAIN as SENSOR_DOMAIN
 from homeassistant.components.weather import DOMAIN as WEATHER_DOMAIN
+from homeassistant.components.remote import DOMAIN as REMOTE_DOMAIN
 from homeassistant.config import async_log_schema_error, config_without_domain
 from homeassistant.const import (
     CONF_BINARY_SENSORS,
@@ -39,6 +40,7 @@ from . import (
     select as select_platform,
     sensor as sensor_platform,
     weather as weather_platform,
+    remote as remote_platform,
 )
 from .const import (
     CONF_ACTION,
@@ -85,6 +87,9 @@ CONFIG_SECTION_SCHEMA = vol.Schema(
         ),
         vol.Optional(WEATHER_DOMAIN): vol.All(
             cv.ensure_list, [weather_platform.WEATHER_SCHEMA]
+        ),
+        vol.Optional(REMOTE_DOMAIN): vol.All(
+            cv.ensure_list, [remote_platform.REMOTE_SCHEMA]
         ),
     },
 )
