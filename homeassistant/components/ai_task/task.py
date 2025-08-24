@@ -13,6 +13,7 @@ import voluptuous as vol
 from homeassistant.components import camera, conversation, media_source
 from homeassistant.core import HomeAssistant, callback
 from homeassistant.exceptions import HomeAssistantError
+from homeassistant.helpers import llm
 from homeassistant.helpers.chat_session import async_get_chat_session
 
 from .const import DATA_COMPONENT, DATA_PREFERENCES, AITaskEntityFeature
@@ -37,6 +38,7 @@ async def async_generate_data(
     instructions: str,
     structure: vol.Schema | None = None,
     attachments: list[dict] | None = None,
+    llm_api: llm.API | None = None,
 ) -> GenDataTaskResult:
     """Run a task in the AI Task integration."""
     if entity_id is None:
@@ -126,6 +128,7 @@ async def async_generate_data(
                 instructions=instructions,
                 structure=structure,
                 attachments=resolved_attachments or None,
+                llm_api=llm_api,
             ),
         )
 
@@ -145,6 +148,9 @@ class GenDataTask:
 
     attachments: list[conversation.Attachment] | None = None
     """List of attachments to go along the instructions."""
+
+    llm_api: llm.API | None = None
+    """API to provide to the LLM."""
 
     def __str__(self) -> str:
         """Return task as a string."""

@@ -77,6 +77,7 @@ class AITaskEntity(RestoreEntity):
                     device_id=None,
                 ),
                 user_llm_prompt=DEFAULT_SYSTEM_PROMPT,
+                user_llm_hass_api=task.llm_api,
             )
 
             chat_log.async_add_user_content(
