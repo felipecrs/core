@@ -5,7 +5,7 @@
   "semanticCommits": "disabled",
   "pip_requirements": {
     "managerFilePatterns": [
-      "/(^|/)[\\w-]*requirements([-_.]\\w+)?\\.(txt|pip)$/"
+      "/^requirements([^.]+)?\\.txt$/"
     ]
   }
 }
