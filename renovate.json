@@ -5,7 +5,8 @@
   "semanticCommits": "disabled",
   "pip_requirements": {
     "managerFilePatterns": [
-      "/^requirements([^.]+)?\\.txt$/"
+      "/^requirements([^.]+)?\\.txt$/",
+      "/^homeassistant/package_constraints\\.txt$/"
     ]
   }
 }
