@@ -3,6 +3,7 @@
   "extends": ["config:recommended"],
   "pip_requirements": {
     "managerFilePatterns": [
+      "/^requirements([^.]+)?\\.txt$/",
       "/^homeassistant/package_constraints\\.txt$/"
     ]
   }
