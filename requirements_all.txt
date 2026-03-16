@@ -1374,7 +1374,7 @@ keba-kecontact==1.3.0
 kegtron-ble==1.0.2
 
 # homeassistant.components.kiwi
-kiwiki-client==0.1.1
+kiwiki-client==0.1.2
 
 # homeassistant.components.knocki
 knocki==0.4.2
