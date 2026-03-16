@@ -566,7 +566,7 @@ azure-storage-blob==12.24.0
 b2sdk==2.10.1
 
 # homeassistant.components.holiday
-babel==2.15.0
+babel==2.18.0
 
 # homeassistant.components.homekit
 base36==0.1.1
