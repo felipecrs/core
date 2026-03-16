@@ -3005,7 +3005,7 @@ starlingbank==3.2
 starlink-grpc-core==1.2.3
 
 # homeassistant.components.statsd
-statsd==3.2.1
+statsd==4.0.1
 
 # homeassistant.components.trane
 steamloop==1.2.0
