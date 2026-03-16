@@ -3032,7 +3032,7 @@ swisshydrodata==0.1.0
 switchbot-api==2.11.0
 
 # homeassistant.components.synology_srm
-synology-srm==0.2.0
+synology-srm==0.2.3
 
 # homeassistant.components.system_bridge
 systembridgeconnector==5.4.3
