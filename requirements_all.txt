@@ -620,7 +620,7 @@ b2sdk==2.10.1
 babel==2.15.0
 
 # homeassistant.components.baidu
-baidu-aip==1.6.6
+baidu-aip==1.6.9.0
 
 # homeassistant.components.homekit
 base36==0.1.1
