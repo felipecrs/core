@@ -2490,7 +2490,7 @@ simplisafe-python==2024.01.0
 skyboxremote==0.0.6
 
 # homeassistant.components.slack
-slack_sdk==3.33.4
+slack_sdk==3.41.0
 
 # homeassistant.components.smart_meter_texas
 smart-meter-texas==0.5.5
