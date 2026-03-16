@@ -1567,7 +1567,7 @@ praw==7.5.0
 prayer-times-calculator-offline==1.0.3
 
 # homeassistant.components.prometheus
-prometheus-client==0.21.0
+prometheus-client==0.24.1
 
 # homeassistant.components.prowl
 prowlpy==1.1.1
