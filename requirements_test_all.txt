@@ -2253,7 +2253,7 @@ python-smarttub==0.0.47
 python-sn2==0.4.0
 
 # homeassistant.components.snoo
-python-snoo==0.8.3
+python-snoo==0.11.0
 
 # homeassistant.components.songpal
 python-songpal==0.16.2
