@@ -3127,7 +3127,7 @@ tp-connected==0.0.4
 tplink-omada-client==1.5.3
 
 # homeassistant.components.transmission
-transmission-rpc==7.0.3
+transmission-rpc==7.0.11
 
 # homeassistant.components.triggercmd
 triggercmd==0.0.36
