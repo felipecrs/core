@@ -124,7 +124,7 @@ Tami4EdgeAPI==3.0
 TravisPy==0.3.5
 
 # homeassistant.components.twitter
-TwitterAPI==2.7.12
+TwitterAPI==2.8.2
 
 # homeassistant.components.onvif
 WSDiscovery==2.1.2
