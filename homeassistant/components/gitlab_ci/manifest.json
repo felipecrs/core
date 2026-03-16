@@ -6,5 +6,5 @@
   "iot_class": "cloud_polling",
   "loggers": ["gitlab"],
   "quality_scale": "legacy",
-  "requirements": ["python-gitlab==1.6.0"]
+  "requirements": ["python-gitlab==8.1.0"]
 }
