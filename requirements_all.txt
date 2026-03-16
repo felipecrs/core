@@ -888,7 +888,7 @@ elmax-api==0.0.6.4rc0
 elvia==0.1.0
 
 # homeassistant.components.xmpp
-emoji==2.8.0
+emoji==2.15.0
 
 # homeassistant.components.emulated_roku
 emulated-roku==0.3.0
