@@ -6,5 +6,5 @@
   "iot_class": "cloud_polling",
   "loggers": ["bizkaibus"],
   "quality_scale": "legacy",
-  "requirements": ["bizkaibus==0.1.1"]
+  "requirements": ["bizkaibus==0.5.2"]
 }
