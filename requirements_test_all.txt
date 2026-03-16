@@ -2654,7 +2654,7 @@ tuya-device-sharing-sdk==0.2.8
 twentemilieu==2.2.1
 
 # homeassistant.components.twilio
-twilio==6.32.0
+twilio==6.63.2
 
 # homeassistant.components.twitch
 twitchAPI==4.2.1
