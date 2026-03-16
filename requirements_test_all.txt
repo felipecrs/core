@@ -2144,7 +2144,7 @@ pysnmp==7.1.22
 pysnooz==0.8.6
 
 # homeassistant.components.soma
-pysoma==0.0.12
+pysoma==0.0.14
 
 # homeassistant.components.spc
 pyspcwebgw==0.7.0
