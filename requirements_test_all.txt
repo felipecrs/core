@@ -1584,7 +1584,7 @@ psutil-home-assistant==0.0.1
 psutil==7.1.2
 
 # homeassistant.components.pushbullet
-pushbullet.py==0.11.0
+pushbullet.py==0.12.0
 
 # homeassistant.components.pushover
 pushover_complete==1.2.0
