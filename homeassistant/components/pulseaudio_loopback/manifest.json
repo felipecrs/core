@@ -5,5 +5,5 @@
   "documentation": "https://www.home-assistant.io/integrations/pulseaudio_loopback",
   "iot_class": "local_polling",
   "quality_scale": "legacy",
-  "requirements": ["pulsectl==23.5.2"]
+  "requirements": ["pulsectl==24.12.0"]
 }
