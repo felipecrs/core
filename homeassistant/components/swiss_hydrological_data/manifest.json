@@ -6,5 +6,5 @@
   "iot_class": "cloud_polling",
   "loggers": ["swisshydrodata"],
   "quality_scale": "legacy",
-  "requirements": ["swisshydrodata==0.1.0"]
+  "requirements": ["swisshydrodata==0.3.1"]
 }
