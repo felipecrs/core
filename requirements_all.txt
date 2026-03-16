@@ -2883,7 +2883,7 @@ scsgate==0.1.0
 securetar==2026.2.0
 
 # homeassistant.components.sendgrid
-sendgrid==6.8.2
+sendgrid==6.12.5
 
 # homeassistant.components.emulated_kasa
 # homeassistant.components.sense
