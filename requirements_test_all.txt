@@ -1982,7 +1982,7 @@ pynordpool==0.3.2
 pynuki==1.6.3
 
 # homeassistant.components.nws
-pynws[retry]==1.8.2
+pynws[retry]==2.1.0
 
 # homeassistant.components.nx584
 pynx584==0.8.2
