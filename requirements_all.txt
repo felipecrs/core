@@ -912,7 +912,7 @@ enturclient==0.2.4
 env-canada==0.13.2
 
 # homeassistant.components.season
-ephem==4.1.6
+ephem==4.2.1
 
 # homeassistant.components.epic_games_store
 epicstore-api==0.1.7
