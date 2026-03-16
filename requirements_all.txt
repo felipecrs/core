@@ -2221,7 +2221,7 @@ pykrakenapi==0.1.8
 pykulersky==0.5.8
 
 # homeassistant.components.kwb
-pykwb==0.0.8
+pykwb==0.0.10
 
 # homeassistant.components.lacrosse
 pylacrosse==0.4
