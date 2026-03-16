@@ -7,5 +7,5 @@
   "iot_class": "cloud_push",
   "loggers": ["ibm_cloud_sdk_core", "ibm_watson"],
   "quality_scale": "legacy",
-  "requirements": ["ibm-watson==5.2.2"]
+  "requirements": ["ibm-watson==5.3.1"]
 }
