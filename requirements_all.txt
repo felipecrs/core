@@ -3178,7 +3178,7 @@ unifi-discovery==1.2.0
 unifi_ap==0.0.2
 
 # homeassistant.components.unifiled
-unifiled==0.11
+unifiled==0.16
 
 # homeassistant.components.homeassistant_hardware
 universal-silabs-flasher==0.1.2
