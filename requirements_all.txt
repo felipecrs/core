@@ -684,7 +684,7 @@ boschshcpy==0.2.107
 
 # homeassistant.components.amazon_polly
 # homeassistant.components.route53
-boto3==1.37.1
+boto3==1.42.68
 
 # homeassistant.components.aws
 botocore==1.37.1
