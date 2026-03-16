@@ -6,5 +6,5 @@
   "iot_class": "cloud_polling",
   "loggers": ["decora_wifi"],
   "quality_scale": "legacy",
-  "requirements": ["decora-wifi==1.4"]
+  "requirements": ["decora-wifi==1.5"]
 }
