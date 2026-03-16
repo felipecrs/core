@@ -7,5 +7,5 @@
   "integration_type": "hub",
   "iot_class": "local_polling",
   "loggers": ["bleak", "pyzerproc"],
-  "requirements": ["pyzerproc==0.4.8"]
+  "requirements": ["pyzerproc==0.4.12"]
 }
