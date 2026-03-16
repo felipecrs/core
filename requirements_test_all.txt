@@ -572,7 +572,7 @@ babel==2.15.0
 base36==0.1.1
 
 # homeassistant.components.scrape
-beautifulsoup4==4.13.3
+beautifulsoup4==4.14.3
 
 # homeassistant.components.esphome
 bleak-esphome==3.7.1
