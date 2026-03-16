@@ -7,5 +7,5 @@
   "integration_type": "service",
   "iot_class": "cloud_polling",
   "loggers": ["aiorecollect"],
-  "requirements": ["aiorecollect==2023.09.0"]
+  "requirements": ["aiorecollect==2023.12.0"]
 }
