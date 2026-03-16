@@ -650,7 +650,7 @@ caldav==2.1.0
 chess-com-api==1.1.0
 
 # homeassistant.components.coinbase
-coinbase-advanced-py==1.2.2
+coinbase-advanced-py==1.8.2
 
 # homeassistant.scripts.check_config
 colorlog==6.10.1

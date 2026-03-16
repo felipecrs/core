@@ -7,5 +7,5 @@
   "integration_type": "service",
   "iot_class": "cloud_polling",
   "loggers": ["coinbase"],
-  "requirements": ["coinbase-advanced-py==1.2.2"]
+  "requirements": ["coinbase-advanced-py==1.8.2"]
 }
