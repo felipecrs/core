@@ -1826,7 +1826,7 @@ pyfritzhome==0.6.20
 pyfttt==0.3
 
 # homeassistant.components.hvv_departures
-pygti==0.9.4
+pygti==0.10.0
 
 # homeassistant.components.version
 pyhaversion==22.8.0
