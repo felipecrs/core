@@ -1809,7 +1809,7 @@ praw==7.5.0
 prayer-times-calculator-offline==1.0.3
 
 # homeassistant.components.proliphix
-proliphix==0.4.1
+proliphix==0.5.0
 
 # homeassistant.components.prometheus
 prometheus-client==0.21.0
