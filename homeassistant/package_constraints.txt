@@ -223,7 +223,7 @@ num2words==0.5.14
 pymodbus==3.11.2
 
 # Pin pytest-rerunfailures to prevent accidental breaks
-pytest-rerunfailures==16.0.1
+pytest-rerunfailures==16.1
 
 # Fixes detected blocking call to load_default_certs https://github.com/home-assistant/core/issues/157475
 aiomqtt>=2.5.0
