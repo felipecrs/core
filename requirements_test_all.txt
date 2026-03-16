@@ -914,7 +914,7 @@ gardena-bluetooth==2.1.0
 gassist-text==0.0.14
 
 # homeassistant.components.google
-gcal-sync==8.0.0
+gcal-sync==9.0.0
 
 # homeassistant.components.aladdin_connect
 genie-partner-sdk==1.0.11
