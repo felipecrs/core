@@ -3353,7 +3353,7 @@ youtubeaio==2.1.1
 yt-dlp[default]==2026.02.21
 
 # homeassistant.components.zabbix
-zabbix-utils==2.0.3
+zabbix-utils==2.0.4
 
 # homeassistant.components.zamg
 zamg==0.3.6
