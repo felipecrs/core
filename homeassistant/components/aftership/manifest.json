@@ -6,5 +6,5 @@
   "documentation": "https://www.home-assistant.io/integrations/aftership",
   "integration_type": "service",
   "iot_class": "cloud_polling",
-  "requirements": ["pyaftership==21.11.0"]
+  "requirements": ["pyaftership==23.1.0"]
 }
