@@ -6,5 +6,5 @@
   "iot_class": "cloud_polling",
   "loggers": ["raincloudy"],
   "quality_scale": "legacy",
-  "requirements": ["raincloudy==0.0.7"]
+  "requirements": ["raincloudy==0.0.9"]
 }
