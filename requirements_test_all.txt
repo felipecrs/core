@@ -2326,7 +2326,7 @@ pyweatherflowudp==1.5.0
 pywebpush==2.3.0
 
 # homeassistant.components.wemo
-pywemo==1.4.0
+pywemo==2.1.2
 
 # homeassistant.components.wilight
 pywilight==0.0.74
