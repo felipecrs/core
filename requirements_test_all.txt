@@ -1997,7 +1997,7 @@ pyobihai==1.4.2
 pyoctoprintapi==0.1.14
 
 # homeassistant.components.openuv
-pyopenuv==2023.02.0
+pyopenuv==2023.12.0
 
 # homeassistant.components.openweathermap
 pyopenweathermap==0.2.2
