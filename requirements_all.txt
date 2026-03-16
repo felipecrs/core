@@ -2933,7 +2933,7 @@ shodan==1.28.0
 simplefin4py==0.0.18
 
 # homeassistant.components.sighthound
-simplehound==0.3
+simplehound==0.6
 
 # homeassistant.components.simplepush
 simplepush==2.2.3
