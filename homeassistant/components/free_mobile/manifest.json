@@ -6,5 +6,5 @@
   "iot_class": "cloud_push",
   "loggers": ["freesms"],
   "quality_scale": "legacy",
-  "requirements": ["freesms==0.2.0"]
+  "requirements": ["freesms==0.3.0"]
 }
