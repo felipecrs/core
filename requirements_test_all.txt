@@ -2847,7 +2847,7 @@ zha==1.0.2
 zinvolt==0.3.0
 
 # homeassistant.components.zoneminder
-zm-py==0.5.4
+zm-py==0.5.5
 
 # homeassistant.components.zwave_js
 zwave-js-server-python==0.68.0
