@@ -3268,7 +3268,7 @@ watergate-local-api==2025.1.0
 weatherflow4py==1.4.1
 
 # homeassistant.components.cisco_webex_teams
-webexpythonsdk==2.0.1
+webexpythonsdk==2.0.5
 
 # homeassistant.components.nasweb
 webio-api==0.1.12
