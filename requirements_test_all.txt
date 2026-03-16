@@ -1314,7 +1314,7 @@ medcom-ble==0.1.1
 melnor-bluetooth==0.0.25
 
 # homeassistant.components.meteo_lt
-meteo-lt-pkg==0.2.4
+meteo-lt-pkg==0.7.1
 
 # homeassistant.components.meteo_france
 meteofrance-api==1.5.0
