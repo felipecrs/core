@@ -2924,7 +2924,7 @@ sfrbox-api==0.1.0
 sharkiq==1.5.0
 
 # homeassistant.components.aquostv
-sharp_aquos_rc==0.3.2
+sharp_aquos_rc==0.4
 
 # homeassistant.components.shodan
 shodan==1.28.0
