@@ -1134,7 +1134,7 @@ gps3==0.33.3
 greeclimate==2.1.1
 
 # homeassistant.components.greeneye_monitor
-greeneye_monitor==3.0.3
+greeneye_monitor==5.0.2
 
 # homeassistant.components.green_planet_energy
 greenplanet-energy-api==0.1.4
