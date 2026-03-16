@@ -7,5 +7,5 @@
   "integration_type": "service",
   "iot_class": "cloud_polling",
   "loggers": ["aussiebb"],
-  "requirements": ["pyaussiebb==0.1.5"]
+  "requirements": ["pyaussiebb==0.1.6"]
 }

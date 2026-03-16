@@ -1702,7 +1702,7 @@ pyatmo==9.2.3
 pyatv==0.17.0
 
 # homeassistant.components.aussie_broadband
-pyaussiebb==0.1.5
+pyaussiebb==0.1.6
 
 # homeassistant.components.myneomitis
 pyaxencoapi==1.0.6
