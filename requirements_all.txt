@@ -1446,7 +1446,7 @@ linode-api==4.1.9b1
 livisi==0.0.25
 
 # homeassistant.components.google_maps
-locationsharinglib==5.0.1
+locationsharinglib==5.0.3
 
 # homeassistant.components.london_underground
 london-tube-status==0.5
