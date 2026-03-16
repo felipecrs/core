@@ -7,5 +7,5 @@
   "iot_class": "local_push",
   "loggers": ["pymata_express"],
   "quality_scale": "legacy",
-  "requirements": ["pymata-express==1.19"]
+  "requirements": ["pymata-express==1.21"]
 }
