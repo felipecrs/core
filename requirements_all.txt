@@ -2575,7 +2575,7 @@ python-fullykiosk==0.0.15
 python-gc100==1.0.3a0
 
 # homeassistant.components.gitlab_ci
-python-gitlab==1.6.0
+python-gitlab==8.1.0
 
 # homeassistant.components.google_drive
 python-google-drive-api==0.1.0
