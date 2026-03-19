@@ -665,7 +665,7 @@ compit-inext-api==0.8.0
 concord232==0.15.1
 
 # homeassistant.components.xiaomi_miio
-construct==2.10.68
+construct==2.10.70
 
 # homeassistant.components.cookidoo
 cookidoo-api==0.14.0
