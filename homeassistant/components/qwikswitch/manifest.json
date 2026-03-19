@@ -6,5 +6,5 @@
   "iot_class": "local_push",
   "loggers": ["pyqwikswitch"],
   "quality_scale": "legacy",
-  "requirements": ["pyqwikswitch==0.93"]
+  "requirements": ["pyqwikswitch==1.0.4"]
 }
