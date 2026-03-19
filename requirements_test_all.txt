@@ -479,7 +479,7 @@ androidtvremote2==0.2.3
 anova-wifi==0.17.0
 
 # homeassistant.components.anthemav
-anthemav==1.4.1
+anthemav==1.4.2
 
 # homeassistant.components.anthropic
 anthropic==0.83.0
