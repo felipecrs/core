@@ -1265,7 +1265,7 @@ librouteros==3.2.0
 libsoundtouch==0.8
 
 # homeassistant.components.livisi
-livisi==0.0.25
+livisi==1.0.1
 
 # homeassistant.components.london_underground
 london-tube-status==0.5
