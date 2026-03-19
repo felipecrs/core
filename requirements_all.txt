@@ -3011,7 +3011,7 @@ statsd==3.2.1
 steamloop==1.2.0
 
 # homeassistant.components.steam_online
-steamodd==4.21
+steamodd==5.0
 
 # homeassistant.components.stookwijzer
 stookwijzer==1.6.1
