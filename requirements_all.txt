@@ -3283,7 +3283,7 @@ weheat==2026.2.28
 whirlpool-sixth-sense==1.0.3
 
 # homeassistant.components.whois
-whois==0.9.27
+whois==1.20240129.2
 
 # homeassistant.components.wiffi
 wiffi==1.1.2
