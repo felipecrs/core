@@ -743,7 +743,7 @@ dsmr-parser==1.5.0
 dwdwfsapi==1.0.7
 
 # homeassistant.components.dynalite
-dynalite-devices==0.1.47
+dynalite-devices==0.1.48
 
 # homeassistant.components.dynalite
 dynalite-panel==0.0.4
