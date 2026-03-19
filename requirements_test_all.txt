@@ -476,7 +476,7 @@ androidtv[async]==0.0.75
 androidtvremote2==0.2.3
 
 # homeassistant.components.anova
-anova-wifi==0.17.0
+anova-wifi==0.17.1
 
 # homeassistant.components.anthemav
 anthemav==1.4.1
