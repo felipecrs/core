@@ -2013,7 +2013,7 @@ pycomfoconnect==0.5.1
 pycoolmasternet-async==0.2.4
 
 # homeassistant.components.radio_browser
-pycountry==24.6.1
+pycountry==26.2.16
 
 # homeassistant.components.microsoft
 pycsspeechtts==1.0.8
