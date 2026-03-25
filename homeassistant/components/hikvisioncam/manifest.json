@@ -6,5 +6,5 @@
   "iot_class": "local_polling",
   "loggers": ["hikvision"],
   "quality_scale": "legacy",
-  "requirements": ["hikvision==0.4"]
+  "requirements": ["hikvision==2.0.4"]
 }

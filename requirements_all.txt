@@ -1207,7 +1207,7 @@ here-routing==1.2.0
 here-transit==1.2.1
 
 # homeassistant.components.hikvisioncam
-hikvision==0.4
+hikvision==2.0.4
 
 # homeassistant.components.harman_kardon_avr
 hkavr==0.0.5
