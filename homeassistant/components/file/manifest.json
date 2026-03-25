@@ -5,5 +5,5 @@
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/file",
   "iot_class": "local_polling",
-  "requirements": ["file-read-backwards==2.0.0"]
+  "requirements": ["file-read-backwards==3.2.0"]
 }

@@ -845,7 +845,7 @@ fastdotcom==0.0.6
 feedparser==6.0.12
 
 # homeassistant.components.file
-file-read-backwards==2.0.0
+file-read-backwards==3.2.0
 
 # homeassistant.components.fing
 fing_agent_api==1.0.3
