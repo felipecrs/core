@@ -557,7 +557,7 @@ azure-eventhub==5.11.1
 azure-kusto-data[aio]==4.5.1
 
 # homeassistant.components.azure_data_explorer
-azure-kusto-ingest==4.5.1
+azure-kusto-ingest==6.0.2
 
 # homeassistant.components.azure_storage
 azure-storage-blob==12.24.0
