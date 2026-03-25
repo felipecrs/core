@@ -524,7 +524,7 @@ aprslib==0.7.2
 apsystems-ez1==2.7.0
 
 # homeassistant.components.aqualogic
-aqualogic==2.6
+aqualogic==3.4
 
 # homeassistant.components.aranet
 aranet4==2.6.0
