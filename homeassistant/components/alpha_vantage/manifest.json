@@ -6,5 +6,5 @@
   "iot_class": "cloud_polling",
   "loggers": ["alpha_vantage"],
   "quality_scale": "legacy",
-  "requirements": ["alpha-vantage==2.3.1"]
+  "requirements": ["alpha-vantage==3.0.0"]
 }
