@@ -383,7 +383,7 @@ aioshelly==13.23.1
 aioskybell==22.7.0
 
 # homeassistant.components.slimproto
-aioslimproto==3.0.0
+aioslimproto==3.1.7
 
 # homeassistant.components.solaredge
 aiosolaredge==0.2.0
