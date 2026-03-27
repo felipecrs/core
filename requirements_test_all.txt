@@ -961,7 +961,7 @@ goodwe==0.4.8
 
 # homeassistant.components.google_mail
 # homeassistant.components.google_tasks
-google-api-python-client==2.71.0
+google-api-python-client==2.192.0
 
 # homeassistant.components.google_pubsub
 google-cloud-pubsub==2.29.0
