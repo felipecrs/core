@@ -2064,7 +2064,7 @@ pyecoforest==0.4.0
 pyeconet==0.2.2
 
 # homeassistant.components.ista_ecotrend
-pyecotrend-ista==3.4.0
+pyecotrend-ista==3.5.0
 
 # homeassistant.components.edimax
 pyedimax==0.2.1
