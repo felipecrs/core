@@ -89,7 +89,7 @@ PySwitchbot==1.1.0
 PySwitchmate==0.5.1
 
 # homeassistant.components.syncthru
-PySyncThru==0.8.0
+PySyncThru==0.10.1
 
 # homeassistant.components.transport_nsw
 PyTransportNSW==0.1.1
