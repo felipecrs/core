@@ -160,7 +160,7 @@ agent-py==0.0.24
 aio-geojson-generic-client==0.5
 
 # homeassistant.components.geonetnz_quakes
-aio-geojson-geonetnz-quakes==0.16
+aio-geojson-geonetnz-quakes==0.17
 
 # homeassistant.components.geonetnz_volcano
 aio-geojson-geonetnz-volcano==0.9
