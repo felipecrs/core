@@ -596,7 +596,7 @@ avea==1.6.1
 axis==66
 
 # homeassistant.components.fujitsu_fglair
-ayla-iot-unofficial==1.4.7
+ayla-iot-unofficial==1.5.0
 
 # homeassistant.components.azure_event_hub
 azure-eventhub==5.11.1
