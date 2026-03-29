@@ -2467,7 +2467,7 @@ pyserial-asyncio-fast==0.16
 pyserial==3.5
 
 # homeassistant.components.sesame
-pysesame2==1.0.1
+pysesame2==1.0.2
 
 # homeassistant.components.seventeentrack
 pyseventeentrack==1.1.2
