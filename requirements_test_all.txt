@@ -2344,7 +2344,7 @@ pyws66i==1.1
 pyyardian==1.1.1
 
 # homeassistant.components.zerproc
-pyzerproc==0.4.8
+pyzerproc==0.4.12
 
 # homeassistant.components.qbittorrent
 qbittorrent-api==2024.9.67
