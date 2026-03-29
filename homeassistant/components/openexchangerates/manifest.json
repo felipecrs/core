@@ -6,5 +6,5 @@
   "documentation": "https://www.home-assistant.io/integrations/openexchangerates",
   "integration_type": "service",
   "iot_class": "cloud_polling",
-  "requirements": ["aioopenexchangerates==0.6.8"]
+  "requirements": ["aioopenexchangerates==0.7.0"]
 }
