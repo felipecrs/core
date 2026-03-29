@@ -2201,7 +2201,7 @@ python-izone==1.2.9
 python-kasa[speedups]==0.10.2
 
 # homeassistant.components.linkplay
-python-linkplay==0.2.12
+python-linkplay==0.2.14
 
 # homeassistant.components.melcloud
 python-melcloud==0.1.2
