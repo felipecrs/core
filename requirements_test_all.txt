@@ -1551,7 +1551,7 @@ plexwebsocket==0.0.14
 plugwise==1.11.3
 
 # homeassistant.components.poolsense
-poolsense==0.0.8
+poolsense==0.1.0
 
 # homeassistant.components.powerfox
 # homeassistant.components.powerfox_local
