@@ -6,5 +6,5 @@
   "iot_class": "cloud_push",
   "loggers": ["TwitterAPI"],
   "quality_scale": "legacy",
-  "requirements": ["TwitterAPI==2.7.12"]
+  "requirements": ["TwitterAPI==2.8.2"]
 }
