@@ -2032,7 +2032,7 @@ pypck==0.9.11
 pypglab==0.0.5
 
 # homeassistant.components.pjlink
-pypjlink2==1.2.1
+pypjlink2==1.2.2
 
 # homeassistant.components.plaato
 pyplaato==0.0.19
