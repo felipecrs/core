@@ -14,7 +14,7 @@ WORKDIR "/github/workspace"
 COPY . /usr/src/homeassistant
 
 # Uv is only needed during build
-RUN --mount=from=ghcr.io/astral-sh/uv:0.10.6,source=/uv,target=/bin/uv \
+RUN --mount=from=ghcr.io/astral-sh/uv:0.10.10@sha256:cbe0a44ba994e327b8fe7ed72beef1aaa7d2c4c795fd406d1dbf328bacb2f1c5,source=/uv,target=/bin/uv \
     # Uv creates a lock file in /tmp
     --mount=type=tmpfs,target=/tmp \
     # Required for PyTurboJPEG
