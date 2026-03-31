@@ -2257,7 +2257,7 @@ pylutron-caseta==0.27.0
 pylutron==0.3.0
 
 # homeassistant.components.mailgun
-pymailgunner==1.4
+pymailgunner==1.5
 
 # homeassistant.components.firmata
 pymata-express==1.19
