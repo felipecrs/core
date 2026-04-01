@@ -2936,7 +2936,7 @@ simplefin4py==0.0.18
 simplehound==0.3
 
 # homeassistant.components.simplepush
-simplepush==2.2.3
+simplepush==2.2.4
 
 # homeassistant.components.simplisafe
 simplisafe-python==2024.01.0
