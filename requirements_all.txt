@@ -3103,7 +3103,7 @@ tilt-ble==1.0.1
 tilt-pi==0.2.1
 
 # homeassistant.components.tmb
-tmb==0.0.4
+tmb==0.1.5
 
 # homeassistant.components.todoist
 todoist-api-python==3.1.0
