@@ -6,5 +6,5 @@
   "iot_class": "cloud_push",
   "loggers": ["pymsteams"],
   "quality_scale": "legacy",
-  "requirements": ["pymsteams==0.1.12"]
+  "requirements": ["pymsteams==0.2.5"]
 }
