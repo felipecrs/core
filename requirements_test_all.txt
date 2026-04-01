@@ -617,7 +617,7 @@ bosch-alarm-mode2==0.4.10
 boschshcpy==0.2.107
 
 # homeassistant.components.aws
-botocore==1.37.1
+botocore==1.42.68
 
 # homeassistant.components.bring
 bring-api==1.1.1
