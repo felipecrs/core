@@ -1419,7 +1419,7 @@ nice-go==1.0.1
 notifications-android-tv==0.1.5
 
 # homeassistant.components.notify_events
-notify-events==1.0.4
+notify-events==1.1.3
 
 # homeassistant.components.nrgkick
 nrgkick-api==1.7.1
