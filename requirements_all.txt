@@ -2790,7 +2790,7 @@ radios==0.3.2
 radiotherm==2.1.0
 
 # homeassistant.components.raincloud
-raincloudy==0.0.7
+raincloudy==0.0.9
 
 # homeassistant.components.rapt_ble
 rapt-ble==0.1.2
