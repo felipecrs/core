@@ -15,7 +15,7 @@
   "requirements": [
     "crownstone-cloud==1.4.11",
     "crownstone-sse==2.0.5",
-    "crownstone-uart==2.1.0",
+    "crownstone-uart==2.7.0",
     "pyserial==3.5"
   ]
 }
