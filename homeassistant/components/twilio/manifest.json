@@ -8,5 +8,5 @@
   "integration_type": "service",
   "iot_class": "cloud_push",
   "loggers": ["twilio"],
-  "requirements": ["twilio==6.32.0"]
+  "requirements": ["twilio==6.63.2"]
 }
