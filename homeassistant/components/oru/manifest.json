@@ -6,5 +6,5 @@
   "iot_class": "cloud_polling",
   "loggers": ["oru"],
   "quality_scale": "legacy",
-  "requirements": ["oru==0.1.11"]
+  "requirements": ["oru==0.2.3"]
 }
