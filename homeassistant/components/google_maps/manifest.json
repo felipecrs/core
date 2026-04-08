@@ -6,5 +6,5 @@
   "iot_class": "cloud_polling",
   "loggers": ["locationsharinglib"],
   "quality_scale": "legacy",
-  "requirements": ["locationsharinglib==5.0.1"]
+  "requirements": ["locationsharinglib==5.0.3"]
 }
