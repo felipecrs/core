@@ -1132,7 +1132,7 @@ ibeacon-ble==1.2.0
 ical==13.2.2
 
 # homeassistant.components.caldav
-icalendar==6.3.1
+icalendar==6.3.2
 
 # homeassistant.components.ping
 icmplib==3.0
