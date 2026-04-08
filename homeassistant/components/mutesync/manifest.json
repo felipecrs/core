@@ -7,5 +7,5 @@
   "integration_type": "service",
   "iot_class": "local_polling",
   "loggers": ["mutesync"],
-  "requirements": ["mutesync==0.0.1"]
+  "requirements": ["mutesync==0.0.2"]
 }
