@@ -338,6 +338,9 @@ aiomusiccast==0.15.0
 # homeassistant.components.nanoleaf
 aionanoleaf2==1.0.2
 
+# homeassistant.components.nepviewer
+aionepviewer==0.1.0
+
 # homeassistant.components.notion
 aionotion==2024.03.0
 
